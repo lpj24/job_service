@@ -15,3 +15,7 @@ bi定时任务管理(vue+drf)重写https://github.com/lpj24/jobManage
 
 ## 下面图片展示功能
 ![image](https://github.com/lpj24/job_service/blob/master/images/all.png)
+
+![image](https://github.com/lpj24/job_service/blob/master/images/detail.png)
+
+![image](https://github.com/lpj24/job_service/blob/master/images/error.png)
